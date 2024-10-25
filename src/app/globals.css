@@ -25,3 +25,176 @@ body {
     text-wrap: balance;
   }
 }
+
+@media (max-width: 768px) {
+  .mainContainer{
+    width: 90%;
+  }
+  .header {
+    width:100%;
+  }
+  .mainBanner{
+    width: 100%;
+  }
+}
+
+@media (max-width:768px) {
+  .mainContainer{
+    width: 90%;
+  }
+  
+}
+
+/********************************************* CSS Code for navBar *********************************************/
+.navBar{
+  font-size: 20px;
+}
+
+
+.header-links{
+  /* color: #0a0a0a;
+  display: flex;
+  padding: 20px;
+  justify-content: right;
+  align-items: center; 
+  gap:40px; */
+}
+
+/********************************************* CSS Code for banner *********************************************/
+.mainBanner{
+width: auto;
+height: 632px;
+background-color: #211C24;
+grid: 10px;
+display: flex;
+padding-left: 160px;
+}
+
+.mainBannerLeft{
+  width: 714px;
+  height: 256px;
+}
+
+.mainBannerTextOne{
+  width: 714px;
+  height: 128px;
+  color: #ededed;
+}
+
+.mainBannerRight{
+  opacity: 100%;
+}
+
+/************************* Code for third conatiner category **************************/
+.thirdContainerCategory{
+  /* display: flex; */
+}
+
+.categoryOne{
+  /* width: 360px;
+  height: 640px;
+  background-color: #FFFFFF; */
+}
+
+.categoryTwo{
+  /* width: 360px;
+  height: 640px;
+  background-color: #F9F9F9; */
+}
+
+.categoryThree{
+  /* width: 360px;
+  height: 640px;
+  background-color: #EAEAEA; */
+}
+
+.categoryFour{
+  /* width: 360px;
+  height: 640px;
+  background-color: #2C2C2C; */
+}
+
+.image1{
+  /* position: absolute; */
+}
+
+.image2{
+  /* position: absolute; */
+  /* margin: 55px; */
+}
+
+/************************* Code for fourth conatiner category **************************/
+.fourthContainerCategory{
+/* width: auto;
+height: 640px; */
+}
+
+.fourthSectionOne{
+/* width: 720px;
+height: 600px; */
+}
+
+.fourthBoxOne{
+  /* width: 720px;
+  height: 328px; */
+}
+
+.fourthBoxTwo{
+  /* width: 360px;
+  height:272px;
+  background-color: #EDEDED; */
+}
+
+.fourthBoxThree{
+  /* width:360px;
+  height:272px;
+  background-color: #353535; */
+}
+
+.subfourthSectionOne{
+  /* display: flex;
+  float: right; */
+  
+}
+
+.fourthSectionTwo{
+  /* width: 720px;
+  height: 600px;
+  background-color: #EDEDED; */
+  /* float:right */
+}
+
+/********************************************* CSS code for top category *********************************************/
+/* .subCategories{
+  width: 1140px;
+  height: 352px;
+  padding-left: 160px;
+  padding-bottom: 80px;
+  padding-top: 80px;
+} */
+
+/* .subCategoryTwo{
+  display: flex;
+  justify-content: center;
+  Width:1120px;
+  height: 128px;
+  background-color: aquamarine;
+  /* padding : 160; */
+  /* gap: 32px; 
+}
+
+/* .category-icons{
+  width: 160px;
+  height: 128px;
+  background-color: #EDEDED;
+  padding-left: 52px;
+  padding-top: 24px;
+  -ms-layout-grid: 10px;
+  border-radius: 25px;
+}
+
+.category-Name{
+  line-height: 24px;
+  letter-spacing: 0%;
+  font-size: 16px;
+} */
