@@ -1,6 +1,5 @@
 import Link from "next/link";
 import React from "react";
-import { SocialIcon } from "react-social-icons";
 import { IoSearchOutline } from "react-icons/io5";
 import { CiHeart } from "react-icons/ci";
 import { IoCartOutline } from "react-icons/io5";
@@ -27,18 +26,11 @@ import pro9 from "@/app/images/pro9.png"
 import pro10 from "@/app/images/pro10.png";
 import tab1 from "@/app/images/tab1.png";
 import tab2 from "@/app/images/tab2.png";
-import tab3 from "@/app/images/tab3.png";
-import tab4 from "@/app/images/tab4.png";
 import Like from "@/app/images/Like.png";
-import dis1 from "@/app/images/dis1.png";
-import dis2 from "@/app/images/dis2.png";
-import dis3 from "@/app/images/dis3.png"
-import banner2 from "@/app/images/Banner2.png"
 import CCwatch from "@/app/images/CCwatch.png"
 import CCipad from "@/app/images/CCipad.png"
 import CCsamsung from "@/app/images/CCsamsung.png"
 import CCmacbook from "@/app/images/CCmacbook.png"
-import CCbt from "@/app/images/CCbt.png"
 import PlayStation from "@/app/images/PlayStation.png"
 import hero from "@/app/images/hero.png"
 import apple from "@/app/images/apple.png"
